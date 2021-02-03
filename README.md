@@ -1,1 +1,1 @@
-# RoyalBank
+# Swing Application
